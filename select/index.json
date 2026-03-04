@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "お前のバンドは好きだけどお前のことは好きじゃない",
+  "base_artist": "せななん",
+  "createdAt": "2026-03-04T02:23:57.812402Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "お前のバンドは好きだけどお前のことは好きじゃない",
+      "artist": "せななん",
+      "has_synced": false,
+      "path": "select/pl_01_お前のバンドは好きだけどお前のことは好きじゃない_せななん.txt"
+    }
+  ]
+}
